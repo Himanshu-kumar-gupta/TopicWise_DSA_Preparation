@@ -23,7 +23,6 @@ class Solution {
                 break;
         }
         int output[]={lIndex,rIndex};
-        
         return output;
     }
 }
