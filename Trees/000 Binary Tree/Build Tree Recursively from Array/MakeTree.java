@@ -1,3 +1,5 @@
+//Time Complexity = O(n)
+//As we traversing through every node or through array of n size
 class Node {
     int data;
     Node left;
