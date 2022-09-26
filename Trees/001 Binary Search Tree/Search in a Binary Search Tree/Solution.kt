@@ -18,5 +18,6 @@ class Solution {
             return searchBST(root.left,`val`)
         else
             return searchBST(root.right,`val`)
+            
     }
 }
