@@ -24,7 +24,8 @@ class Solution {
             similar = false;
         return similar;
     }
-
+    
+//     The traversal is post order it is written pre order by mistake
     public void getPreOrder(TreeNode root) {
         if(root==null)
             return;
